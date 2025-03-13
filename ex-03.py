@@ -1,4 +1,4 @@
-3. Letra de música - Faça um programa que imprima na tela o nome de uma música que você gosta (proibido letras do Justin Bieber)
+#3. Letra de música - Faça um programa que imprima na tela o nome de uma música que você gosta (proibido letras do Justin Bieber)
 print("[Taka filhote]")
 print("Quando eu for rei")
 print("Nenhum dos bichos vai me enfrentar, me enfrentar")
