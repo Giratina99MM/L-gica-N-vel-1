@@ -1,4 +1,4 @@
-6. Menu - Elabore um programa que mostre o seguinte menu na tela:
+#6. Menu - Elabore um programa que mostre o seguinte menu na tela:
 Cadastro de Clientes
 0 - Fim
 1 - Inclui
